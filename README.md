@@ -1,7 +1,7 @@
 # CssGlobalExamples
 Simplified/revised examples from authors around the world
 # My Projects
-
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=paradoxxo1&label=Profile%20views&color=0e75b6&](https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif)style=flat" alt="paradoxxo1" /> </p>
 Repos Descriptions;
 
 1. **Sun, Earth, and Moon CSS Codes** 
