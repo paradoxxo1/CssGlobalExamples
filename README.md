@@ -1,7 +1,8 @@
 # CssGlobalExamples
 Simplified/revised examples from authors around the world
 # My Projects
-![Profile Views](https://komarev.com/ghpvc/?username=paradoxxo1&label=Profile%20views&color=0e75b6)
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif" />
+
 
 Repos Descriptions;
 
