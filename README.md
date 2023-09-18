@@ -46,4 +46,4 @@ Repos Descriptions;
 14. **Rain Effect** 
     Description: Create a rain effect with CSS.
 
-**The examples here do not belong to me. They are just examples that are seen around the world and that I have practiced by making the sample designs understandable at a basic level. I don't own the copyright :)
+The examples here do not belong to me. They are just examples that are seen around the world and that I have practiced by making the sample designs understandable at a basic level. I don't own the copyright :)
