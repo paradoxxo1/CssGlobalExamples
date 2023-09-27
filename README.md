@@ -4,6 +4,12 @@ Simplified/revised examples from authors around the world
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif" />
 
 
+# CssGlobalExamples
+Simplified/revised examples from authors around the world
+# My Projects
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif" />
+
+
 Repos Descriptions;
 
 1. **Sun, Earth, and Moon CSS Codes** 
@@ -48,4 +54,20 @@ Repos Descriptions;
 14. **Rain Effect** 
     Description: Create a rain effect with CSS.
 
+15. **Mouse Tracking Button**
+   Description: An interactive button that follows the mouse cursor.
+
+16. **Smoke Text Effect**
+   Description: Apply a smoke effect to text elements.
+
+17. **Admin Panel**
+   Description: Add visual effects to the username, password, and login button in an admin panel.
+
+18. **Rainbow Loading Button**
+   Description: Create a loading button with rainbow-colored animations.
+
+19. **Magic Business Card**
+   Description: A magical business card with a LinkedIn link embedded within.
+
 The examples here do not belong to me. They are just examples that are seen around the world and that I have practiced by making the sample designs understandable at a basic level. I don't own the copyright :)
+
