@@ -4,11 +4,6 @@ Simplified/revised examples from authors around the world
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif" />
 
 
-# CssGlobalExamples
-Simplified/revised examples from authors around the world
-# My Projects
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/QWdPngpHxZ8AAAAd/family-guy-css.gif" />
-
 
 Repos Descriptions;
 
