@@ -62,5 +62,9 @@ Repos Descriptions;
 19. **Magic Business Card**
    Description: A magical business card with a LinkedIn link embedded within.
 
+20. **Hover Navbar**
+   Description: A navigation bar with hover effects.
+
+
 The examples here do not belong to me. They are just examples that are seen around the world and that I have practiced by making the sample designs understandable at a basic level. I don't own the copyright :)
 
